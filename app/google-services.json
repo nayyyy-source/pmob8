@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603689843156",
+    "project_id": "pert8-8574b",
+    "storage_bucket": "pert8-8574b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603689843156:android:560dad9d5d1f2503b3fe41",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8_ajah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvBejglr3V4UWn1nigqTYjNxGtr15uts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
